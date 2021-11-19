@@ -16,5 +16,6 @@ So if 1 is entered in the textbox, than, display apple.
 
 
 
-![1](https://user-images.githubusercontent.com/55779908/142646120-fce7de98-a5cf-4efd-90de-70a3bc1c78b1.PNG)
-![2](https://user-images.githubusercontent.com/55779908/142646300-600ad6b0-b7e2-47d6-b4cf-d3bab62441d9.PNG)
+![image](https://user-images.githubusercontent.com/55779908/142650693-6ff4bef3-c19a-4b10-9a68-fec35981ef6a.png)
+![image](https://user-images.githubusercontent.com/55779908/142650846-e335fe25-3bad-45cf-8d1d-7e4ce30c819f.png)
+
