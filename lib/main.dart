@@ -52,7 +52,7 @@ class _MyCustomFormState extends State<MyCustomForm> {
         child: TextField(
           controller: myController,
           decoration: const InputDecoration.collapsed(
-              hintText: 'Input a number from 1 to 3'),
+              hintText: 'Enter a number between 1 and 3'),
         ),
       ),
       floatingActionButton: FloatingActionButton(
