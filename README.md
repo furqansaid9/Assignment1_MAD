@@ -15,7 +15,6 @@ In this assignment, I will create:
 So if 1 is entered in the textbox, than, display apple.
 
 
-
-![image](https://user-images.githubusercontent.com/55779908/142650693-6ff4bef3-c19a-4b10-9a68-fec35981ef6a.png)
+![image](https://user-images.githubusercontent.com/55779908/142652327-1b98efdb-5399-40e2-9204-c217f8821720.png)
 ![image](https://user-images.githubusercontent.com/55779908/142650846-e335fe25-3bad-45cf-8d1d-7e4ce30c819f.png)
 
